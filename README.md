@@ -11,7 +11,8 @@ and of course, duckwork.
 
 i actually don't do much development on github any more.
 you can find my good stuff on
-[sourcehut](https://sr.ht/~acdw).
+~[sourcehut](https://sr.ht/~acdw)~
+<https://git.acdw.net>.
 i currently work on stuff in bash for the smol internet,
 including
 [bollux](https://sr.ht/~acdw/bollux/), a browser for the
